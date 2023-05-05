@@ -1,3 +1,21 @@
+# PROJECT DESCRIPTION
+My Graduation Project from the University of Jordan. 
+we used HTML, CSS, JavaScript, ReactJS for the front end, and Firebase for both backend, database, and hosting, since it provides an effective BaaS 
+(Back-End as a Service)
+
+The most important and notable features were a fully navigational map of the IT faculty building that marks classrooms and the facilities of the building. 
+Also, graphical representations of multiple study plans which were user interactive and function as a tracker for the studying journey for the student
+It also had other features like a dynamic GPA calculator that calculates the GPA immediately for the student, and some services that are presented in a 
+nice way to guide students for the available resources.
+The most notable challenges to be mentioned is implementing a smart and intuitive way for the map to work, and since we are using a document NoSQL database, 
+we had to come up with a creative way to update the state of the course once done on the study plan, we decided to use the flexibility of ReactJS to turn the 
+CSS ClassName function into a JavaScript variable, that changes upon clicking on the button, and the background gets dimmed so it can indicate the completion 
+of the course.
+
+Another challenge was the implementation of a GPA calculator in ReactJS, since there were not many resources for building a GPA calculator at the time in React, 
+we had to improvise and create our own code.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
