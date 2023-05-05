@@ -1,0 +1,103 @@
+.text-collegematerials{
+    font-family: 'American Typewriter';
+    font-size: 35px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    font-weight: bold;
+    color: #393939;
+}
+
+.cards-div{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+}
+
+.first-card{
+    display: flex;
+    flex-direction: column;
+    border-style: solid;    
+    border-radius: 45px;
+    border-color: #58949c;
+}
+
+.first-resource{
+    color: #f9cb46;
+    background-color: #58949c;
+    border-top-left-radius: 500px;
+    border-top-right-radius: 500px;
+    font-size: 22px;
+    font-weight: bold;
+    padding-top: 3px;
+    padding-bottom: 10px;
+}
+
+.algo-card{
+    display: flex;
+    justify-content: space-between;
+}
+
+.algo-dossier{
+    width: 300px;
+    border-radius: 45px;
+    transition: 0.5s;
+    margin-bottom: -3px;
+    margin-top: 5px;
+}
+
+.algo-dossier:hover{
+    width: 325px;    
+    transition: 0.5s;
+}
+
+.algo-book{
+    width: 300px;
+    height: 243px;
+    border-radius: 45px;
+    transition: 0.5s;
+    margin-right: 0px;
+    margin-bottom: -3px;
+    margin-top: 5px;
+}
+
+.algo-book:hover{
+    width: 325px;
+    height: 270px;
+    transition: 0.5s;
+}
+
+.cplus-card{
+    display: flex;
+}
+
+.cplus-dossier{
+    margin-top: 5px;
+    width: 300px;
+    height: 244px;
+    border-radius: 45px;
+    transition: 0.5s;
+    margin-bottom: -3px;
+}
+
+.cplus-dossier:hover{
+    width: 325px;
+    height: 273px;  
+    transition: 0.5s;
+}
+
+.data1-dossier{
+    margin-top: 5px;
+    width: 300px;
+    height: 244px;
+    border-radius: 45px;
+    transition: 0.5s;
+    margin-bottom: -3px;
+}
+
+.data1-dossier:hover{
+    width: 325px;
+    height: 273px;  
+    transition: 0.5s;
+}

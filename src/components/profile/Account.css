@@ -1,0 +1,172 @@
+
+img{
+    width: 100px;
+}
+
+.guidey-logo{
+    width: 150px
+}
+
+.header{
+    background-color: #58949c;
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    font-family: 'American Typewriter';
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.head1{
+    display: flex;
+    align-items: center;
+    font-size: 50px;
+    color: #f9cb46;
+    margin-left: 30px;
+}
+
+.head2{
+    font-size: 45px;
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-right: 70px;
+}
+
+.head3{
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-right: 30px;
+}
+
+.homephoto-profile{
+    margin-top: 10px;
+    width: 50px;
+    background-color:rgba(255, 255, 255, 0.905);
+    padding:7px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border-radius: 300px;
+    transition: 0.5s;
+}
+
+.userphoto-profile{
+    margin-top: -3px;
+    width: 40px;
+    background-color: #f9cb46;
+    padding:10px;
+    border-radius: 300px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.logoutphoto-profile{    
+    width: 50px;
+    background-color:rgba(255, 255, 255, 0.905);
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;    
+    padding-bottom: 14px;
+    border-radius: 300px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.homephoto-profile:hover, .logoutphoto-profile:hover{
+    background-color: #f9cb46;
+    transition: 0.5s;
+}
+
+.text-account{
+    font-family: 'American Typewriter';
+    font-size: 35px;
+    margin-top: 50px; 
+    color: #393939;   
+    font-weight: bold;
+}
+
+.get-data-button{
+    color: white;
+    background-color: black;
+    margin-top: 100px;
+    width: 150px;
+    height: 70px;
+    border-radius: 100px;
+    transition: 0.3s;
+}
+
+.get-data-button:active{
+    transition: 0.3s;
+    color: #393939;
+    background-color: white;
+}
+
+.information-div{
+    font-family: 'American Typewriter';
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.structure{
+    background-color: #58949c;
+    color: white;
+    font-weight: bold;
+    font-size: 32px;   
+    padding: 30px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-style: solid;    
+    border-radius: 100px;
+    border-width: 4px;
+    box-shadow: 10px 20px 20px rgba(0,0,0,0.3)
+}
+
+.name-div{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.major-div{
+    margin-bottom: 20px;
+}
+
+
+.number-div{
+    margin-bottom: 20px;    
+}
+
+
+.button-div{    
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+
+.update-info{
+    font-size: 30px;
+    font-family: 'American Typewriter';
+    font-weight: bold;    
+    background-color: #f9cb46;    
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 30px;
+    transition: 0.7s;
+    border: 0;  
+}
+
+.update-info:hover{
+    font-size: 35px;
+    transition: 0.7s;
+    background-color: white;
+    color: #393939;        
+}
+
+.update-info:active{
+    transition: 0.15s;
+    color: #f9cb46;    
+}

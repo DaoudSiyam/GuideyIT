@@ -1,0 +1,622 @@
+.magrin-top-5px{
+    margin-top: -5px;
+}
+
+.margin-top-4px{
+    margin-top: -4px;
+}
+
+.margin-top-3px{
+    margin-top: -3px;
+}
+
+.faculty-req{
+    font-weight: bold;    
+    font-family: "american typewriter";
+    background-color: #37abe7;
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+}
+
+.major-req{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;    
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+}
+
+.elective-req{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #dd9231;
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+}
+
+.text-bit{
+    font-weight: bold;
+    font-family: "american typewriter";
+    color: #393939;
+    font-size: 35px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.bit-studyplan{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-bottom: 70px;
+}
+
+.bit-left{
+    display: flex;
+    flex-direction: column;
+}
+
+.bit-left-1{
+    display: flex;
+}
+
+.general-management-bit{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;    
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+
+.display-web1-bit{
+    margin-left: 120px;
+}
+
+.accounting-bit{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;    
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.bit-left-2{
+    display: flex;
+    align-items: center;
+    margin-top: -5px;
+}
+
+
+.align-center{
+    display: flex;
+    align-items: center;
+}
+
+.web1-bit{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #37abe7;
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.bit-left-3{
+    display: flex;
+}
+
+.margin-minus-irm{
+    margin-top: -5px;
+}
+
+.margin-irm{
+    margin-left: 65px;
+}
+
+.ethics-bit{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #dd9231;
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.margin-ethics{
+    margin-left: 113px;
+}
+
+.web2-bit{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+
+.margin-web2{
+    margin-left: 55px;
+}
+
+.margin-minus-web2{
+    margin-top: -5px;
+}
+
+.margin-web-publishing{
+    margin-left: 120px;
+}
+
+.margin-mis-bit{
+    margin-left: 136px;
+}
+
+.irm-bit{
+    display: flex;
+}
+
+.bit-left-4{
+    display: flex;
+    margin-top: -5px;
+}
+
+.margin-line4-bit{
+    margin-left: 58px;
+}
+
+.minus-5px{
+    margin-top: -5px;
+}
+
+.security-bit{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.tp-bit{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #dd9231;
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+
+.bit-left-5{
+    display: flex;
+    justify-content: right;
+    margin-top: -32px;
+    align-items: center;
+    margin-right: 1px;
+}
+
+.margin-minus-elearning{
+    margin-left: 515px;
+    margin-top: -61px;
+    
+}
+
+.bit-right{
+    display: flex;
+    flex-direction: column;
+}
+
+.bit-right-1{
+    display: flex;
+    align-items: center;
+}
+
+.data1-line-bit-margin{
+    margin-left: 60px;
+}
+
+.calculus1-bit-margin{
+    margin-left: 15px;
+}
+
+.margin-bit-whole-lower{
+    margin-top: -5px;
+    margin-left: -56px;
+}
+
+.bit-right-2{
+    display: flex;
+}
+
+.bit-right-2-1{
+    display: flex;
+    flex-direction: column;
+}
+
+.bit-right-2-1-1{
+    display: flex;
+}
+
+.special-topics-bit{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #dd9231;
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.major-line-bit-margin{
+    margin-left: 57px;
+    margin-bottom: -5px;
+    margin-top: -19px;
+}
+
+.flex-lower-bit{
+    display: flex;
+}
+
+.flex-lower-bit-part{
+    display: flex;
+    flex-direction: column;
+}
+
+.bit-right-2-1-2{
+    display: flex;
+}
+
+.simulation-bit{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.network-line-bit-margin{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: -5px;
+}
+
+.os-line-bit-margin{
+    margin-left: 56px;
+}
+
+.rest-line-bit-margin{
+    margin-right: 56px;
+}
+
+.bit-right-2-1-3{
+    display: flex;
+}
+
+.network2-bit{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #dd9231;
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.bit-right-2-1-4{
+    display: flex;
+    justify-content: right;
+    margin-top: 15px;
+    margin-right: -12px;
+}
+
+.database-bit-line-margin{
+    display: flex;
+    justify-content: right;
+    margin-right: 72px;
+}
+
+.bit-database-div{
+    display: flex;
+    align-items: center;
+}
+
+.margin-databse-bit-arrow{
+    margin-top: 5px;
+}
+
+.bit-right-2-1-5{
+    display: flex;
+    justify-content: right;
+    margin-right: 8px;
+    margin-top: -5px;
+}
+
+.margin-bit-flex-lower-database{
+    margin-left: 10px;
+}
+
+.bit-right-2-2{
+    display: flex;
+    flex-direction: column;
+}
+
+.bit-right-2-2-1{
+    display: flex;
+    align-items: center;
+}
+
+.software-div-bit{
+    margin-right: 8px;
+    margin-left: 7px;
+}
+
+.flex-bit-discrete-line{
+    margin-bottom: -84px;
+    margin-left: 28px;
+    margin-right: -2px;
+}
+
+.bit-right-2-2-2{
+    display: flex;
+    align-items: center;
+}
+
+.doc-analysis-bit{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;    
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+
+.statistical-packages-bit{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;    
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-left: 25px;
+}
+
+.or-bi-bit-line{
+    display: flex;
+    justify-content: right;
+    margin-right: 83px;
+}
+
+.bit-right-2-2-3{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15px;
+    margin-top: -5px;
+    margin-bottom: 10px;
+}
+
+.or-bit{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;    
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-right: 30px;
+}
+
+.bit-right-2-2-4{
+    display: flex;
+}
+
+.bit-bi-line{
+    margin-left: 15px;
+    margin-top: -12px;
+    margin-right: -2px;
+}
+
+.dss-bit{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;    
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.or-bit-erp-line{
+    margin-left: 72px;
+    margin-top: -12px;
+    margin-bottom: -5px;
+}
+
+.bit-tqm-div{
+    display: flex;
+    align-items: center;
+}
+
+.margin-tqm-line{
+    margin-left: -5px;
+    margin-top: -15px;
+}
+
+.erp-ispm-bit-line{
+    margin-left: -12px;
+    margin-top: 1px;
+}
+
+.software-ispm-bit-line{
+    margin-left: 11px;
+    margin-top: 125px;
+    margin-right: -2px;
+}
+
+.ispm-bit{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #dd9231;
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bit-right-2-3{
+    margin-top: 104px;
+    margin-left: -1px;
+}
+
+.bit-right-3{
+    margin-top: -40px;
+    margin-left: 140px;
+}
+
+.manual-projects{
+    display: flex;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-top: -180px;
+}
+
+.plan-manual-bit{
+    background-color: white;
+    font-family: american typewriter;
+    border: 3px;
+    border-style: solid;
+    height: 170px;
+    width: 350px;
+    margin-right: 180px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.plan-manual-bit-top{
+    display: flex;
+    align-items: center;
+}
+
+.faculty-req-manual{
+    background-color: #37abe7;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 50px;
+}
+
+.plan-manual-bit-middle{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.major-req-manual{
+    background-color: #d9dd50;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 60px;
+}
+
+.plan-manual-bit-bottom{
+    display: flex;
+    align-items: center;
+}
+
+.elective-req-manual{
+    background-color: #dd9231;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 40px;
+}
+
+.passed-hours{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: white;
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+}
+
+.training-project1{
+    margin-bottom: -5px;
+}
+
+.flex-training{
+    display: flex;
+}
+
+.training-cis{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;    
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.margin-training-arrow{
+    margin-left: 50px;
+}
+
+.margin-project1-arrow{
+    margin-left: 125px;
+}
+
+.flex-project2{
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+    margin-left: 125px;
+}

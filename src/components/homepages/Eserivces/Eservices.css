@@ -1,0 +1,51 @@
+.text-eservices{
+    font-family: 'American Typewriter';
+    font-size: 35px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #393939;
+    font-weight: bold;
+}
+
+.mainbody-eservices{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.buttons{
+    background-color: #58949c;
+    font-family: 'American Typewriter';
+    font-size: 35px;
+    padding: 35px;
+    border-radius: 15px;
+    width: 300px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    transition: 0.3s;
+    box-shadow: 10px 20px 20px rgba(0,0,0,0.2)
+}
+
+.buttons:hover{
+    color: #f9cb46;
+    transition: 0.3s;
+}
+
+.blue-button:active{
+    color: white;
+}
+
+.upper-part{
+    display: flex;    
+    margin-bottom: 60px;
+}
+
+.community-service-div{
+    margin-right: 40px;
+}
+
+.ju-clinic-div{
+    margin-left: 40px;
+}

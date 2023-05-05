@@ -1,0 +1,138 @@
+body{
+    font-family: "american typewriter";
+}
+
+img{
+    width: 100px;
+}
+
+.guidey-logo{
+    width: 150px;
+}
+
+.header{
+    background-color: #58949c;
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    font-family: 'American Typewriter';
+    font-weight: bold;
+}
+
+.head1{
+    display: flex;
+    align-items: center;
+    font-size: 50px;
+    color: #f9cb46;
+    margin-left: 30px;
+}
+
+.head2-signup{
+    font-size: 45px;
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-right: 70px;
+}
+
+
+.head3{
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-right: 30px;
+}
+
+.back-to-login-button-signup{
+    font-size: 40px;
+    font-family: 'American Typewriter';
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    color: white;
+    background-color: transparent;
+    border: none;
+    transition: 0.3s;
+}
+
+.back-to-login-button-signup:hover{
+    color: #f9cb46;
+    transition: 0.3s;
+}
+
+.back-to-login-button-signup:active{
+    color: white;
+}
+
+.profile-picture{
+    border-radius: 60px;
+    margin-right: 20px;
+}
+
+.text{
+    font-family: 'American Typewriter';
+    font-size: 35px;
+    margin-top: 50px;
+    color: #37abe7;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.input-box{
+    margin-top: 30px;
+    width: 420px;
+    border: none;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 17px;
+    font-family: 'american typewriter';
+}
+
+.option-box{
+    margin-top: 30px;
+    width: 480px;
+    border: none;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 17px;
+    font-family: 'american typewriter';
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.signup-button{
+    font-family: 'American Typewriter';
+    background-color: #f9cb46;
+    border: none;
+    font-size: 30px;
+    margin-top: 20px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 50px;
+    transition: 0.3s;
+}
+
+.signup-button:hover{
+    color: white;
+    transition: 0.3s;
+}
+
+.signup-button:active{
+    color: #393939;
+}

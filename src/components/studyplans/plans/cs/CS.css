@@ -1,0 +1,649 @@
+.faculty-req{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #37abe7;
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+}
+
+.margined-faculty-req{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #37abe7;
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.major-req{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;    
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+}
+
+.done-major-req{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #858732;    
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+}
+
+.margined-major-req{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.elective-req{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #dd9231;
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+}
+
+.lab{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;
+    height: 60px;
+    width: 85px;
+    border-radius: 40px;
+}
+
+.text-cs{
+    font-weight: bold;
+    font-family: "american typewriter";
+    color: #393939;
+    font-size: 35px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.margin-top-4px{
+    margin-top: -4px;
+}
+
+.margin-top-5px{
+    margin-top: -5px;
+}
+
+.statistics-upper-line{
+    margin-left: 90px;
+    margin-bottom: -378px;
+    margin-top: 150px;
+}
+
+.cs-study-plan{
+    display: flex;
+    flex-direction: column;
+}
+
+.cs-plan-upper{
+    display: flex;
+    justify-content: center;
+}
+
+.upper-left-cs-plan{
+    display: flex;
+    flex-direction: column;
+}
+
+.upper-left-cs-1{
+    display: flex;
+}
+
+.physics-cs{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;    
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-right: 21px;
+}
+
+.physics-lab{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;
+    height: 60px;
+    width: 85px;
+    border-radius: 40px;
+    margin-right: -2px;
+    margin-left: 15px;
+}
+
+.three-sub-logic-cs{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -4px;
+}
+
+.physics-lab-logic-cs-line{
+    margin-left: 61px;
+}
+
+.discrete-logic-cs-line{
+    margin-right: 53px;
+}
+
+.upper-left-cs-2{
+    display: flex;
+    align-items: center;
+    margin-top: -5px;
+    margin-left: -16px;
+}
+
+.logic-cs{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;    
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-right: 21px;
+    margin-left: 15px;   
+}
+
+.logic-cs-arrows{
+    display: flex;
+    justify-content: center;
+}
+
+.logic-middle-arrow-cs{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.upper-left-cs-3{
+    display: flex;
+}
+
+.upper-left-cs-3-1{
+    margin-left: -132px;
+}
+
+.upper-left-cs-3-1-1{
+    display: flex;
+    justify-content: right;
+}
+
+.cs-cp-div{
+    display: flex;
+    align-items: center;
+    margin-top: -33px;
+}
+
+.upper-left-cs-3-1-2{
+    display: flex;
+    justify-content: left;
+}
+
+.org-sp-cs-line{
+    display: flex;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+
+.org-sp-cs-hor-line{
+    margin-top: 14px;
+    margin-left: -2px;
+}
+
+.margin-sp-cs-arrow{
+    margin-top: -11px;
+}
+
+.pl-cs{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;    
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-left: -7px;
+}
+
+.upper-left-cs-3-2-2{
+    margin-left: -6px;    
+}
+
+.data1-lab-cs-div{
+    display: flex;
+    margin-left: 10px;
+}
+
+.data1-lab-cs-margins{
+    margin-left: 15px;
+}
+
+.lab-data1-horline-margin{
+    margin-top: 45px;
+    margin-right: -2px;
+}
+
+.data1-lab{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;
+    height: 60px;
+    width: 85px;
+    border-radius: 40px;
+    margin-right: 12px;
+    margin-top: 12px;
+    
+}
+
+.c-data-cs-line{
+    margin-top: -4px;
+    margin-left: -25px;
+}
+
+.c-data-cs-arrow{
+    margin-top: -5px;
+    margin-left: -2px;
+}
+
+.data1-cs{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;    
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-left: 10px;
+    
+}
+
+.c-numerical-cs-line{
+    margin-top: 204px;
+    margin-left: -2px;
+}
+
+.margin-numerical-arrows-left{
+    margin-right: -2px;
+}
+
+.upper-right-cs-plan{
+    margin-left: 22px;
+}
+
+.fund-web-doc-line{
+    margin-top: -4px;
+    margin-left: 56px;
+}
+
+.margin-cal-linear-cs-line{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -4px;
+}
+
+.margin-web-cs{
+    margin-left: 56px;
+}
+
+.margin-cal-linear-cs{
+    margin-right: 56px;
+}
+
+.upper-right-cs2{
+    display: flex;
+    align-items: center;
+}
+
+.calculus1-cs{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #37abe7;
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-top: 12px;
+}
+
+.upper-right-cs3{
+    display: flex;
+    align-items: center;
+    margin-top: -5px;
+}
+
+.upper-right-cs4{
+    display: flex;
+    margin-top: 10px;
+    margin-left: -24px;
+}
+
+.margin-lin-num-cs-line{
+    margin-top: -42px;
+}
+
+.margin-dot-lin-num-cs{
+    margin-top: -56px;
+    margin-left: -1px;
+}
+
+.flex-long-lines-cs{
+    display: flex;
+}
+
+.cs-algo-line-margin{
+    margin-left: 87px;
+    margin-bottom: -18px;
+    margin-top: -12px;
+}
+
+.cs-algo-prob-line{
+    margin-top: -39px;
+    margin-bottom: -5px;
+    margin-left: 242px;
+}
+
+.cs-data-labs-line{
+    margin-top: -43px;
+    margin-left: 14px;
+}
+
+.cs-longest-line{
+    margin-top: -18px;
+    margin-left: -223px;
+}
+
+.cs-plan-lower{
+    display: flex;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: -5px;
+}
+
+.cs-plan-lower-left{
+    display: flex;
+    margin-right: 15px;
+}
+
+.cs-lower-left2-1{
+    display: flex;
+    margin-left: 50px;
+}
+
+.cs-lower-left2-1-1{
+    margin-top: -17px;
+}
+
+.cs-lower-left2-1-2{
+    margin-top: -24px;
+
+}
+
+.bio-DS-prob-line-cs{
+    margin-top: -3px;
+    margin-left: 20px;
+}
+
+.cs-lower-left2-2{
+    display: flex;
+    margin-left: -38px;
+    margin-top: -5px;
+}
+
+.cs-lower-left2-2-1{
+    margin-right: 32px;
+}
+
+.cs-lower-middle-top{
+    display: flex;
+    margin-left: 30px;
+}
+
+.cs-database-div{
+    margin-left: 10px;
+}
+
+.cs-lower-middle-bottom{
+    display: flex;
+}
+
+.cs-commutive-div{
+    margin-top: 22px;
+}
+
+.cs-wireless-div{
+    margin-top: 22px;
+    margin-bottom: 23px;
+}
+
+.cs-network-arrows-line{
+    margin-left: -2px;
+}
+
+.cs-software-div{
+    margin-top: -4px;
+    margin-left: 22px;
+}
+
+.cs-security-div{
+    margin-top: 22px;
+    margin-left: -2px;
+    margin-bottom: 22px;
+}
+
+.cs-np-div{
+    margin-left: -2px;
+}
+
+.cs-network2-div{
+    margin-top: 19px;
+    margin-left: -2px;
+}
+
+.cs-plan-lower-right{
+    display: flex;
+    margin-left: 24px;
+}
+
+.cs-lower-right-left{
+    display: flex;
+    margin-top: 5px;
+}
+
+.cs-lower-right-left-left{
+    margin-top: 10px;
+    margin-right: -2px;
+}
+
+.cs-special-programming-div{
+    margin-top: 14px;
+    margin-bottom: 26px;
+}
+
+.cs-digital-crimes-div{
+    margin-left: -24px;
+}
+
+.cs-lower-right-right{
+    margin-left: 24px;
+}
+
+.cs-lower-right-left-right{
+    margin-top: 10px;
+    margin-left: -2px;
+}
+
+.cs-lower-right-right-bottom{
+    display: flex;
+}
+
+.cs-graphics-line-margin{
+    margin-top: -4px;
+    margin-left: 5px;
+}
+
+.cs-lower-right-right-bottom-right{
+    margin-top: 20px;
+    margin-left: -2px;
+}
+
+.cs-image-div{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cs-game-dev-div{
+    margin-top: 17px;
+}
+
+.statitics-lower-line{
+    margin-left: 70px;
+    margin-top: -340px;
+    margin-bottom: 100px; 
+}
+
+.final-cs-div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.plan-manual-cs{
+    background-color: white;
+    font-family: american typewriter;
+    border: 3px;
+    border-style: solid;
+    height: 170px;
+    width: 350px;
+    margin-right: 180px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-bottom: 70px;
+    margin-top: -50px;
+}
+
+.plan-manual-cs-top{
+    display: flex;
+    align-items: center;
+}
+
+.faculty-req-manual{
+    background-color: #37abe7;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 50px;
+}
+
+.plan-manual-cs-middle{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.major-req-manual{
+    background-color: #d9dd50;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 60px;
+}
+
+.plan-manual-cs-bottom{
+    display: flex;
+    align-items: center;
+}
+
+.elective-req-manual{
+    background-color: #dd9231;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 40px;
+}
+
+.cs-project-training{
+    margin-top: -475px;
+    margin-right: 55px;
+}
+
+.training-project1{
+    margin-bottom: -5px;
+}
+
+.passed-hours{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: white;
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+}
+
+.flex-training{
+    display: flex;
+}
+
+.training-cis{
+    font-weight: bold;
+    border:1px;
+    font-family: "american typewriter";
+    background-color: #d9dd50;    
+    height: 60px;
+    width: 115px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.margin-training-arrow{
+    margin-left: 50px;
+}
+
+.margin-project1-arrow{
+    margin-left: 125px;
+}
+
+.flex-project2{
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+    margin-left: 125px;
+}
+
+.manual-projects{
+    display: flex;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-top: -180px;
+}

@@ -1,0 +1,178 @@
+img{
+    width: 100px;
+}
+
+.guidey-logo{
+    width: 150px
+}
+
+.header{
+    background-color: #58949c;
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    font-family: 'American Typewriter';
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.head1{
+    display: flex;
+    align-items: center;
+    font-size: 50px;
+    color: #f9cb46;
+    margin-left: 30px;
+}
+
+.head2{
+    font-size: 45px;
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-right: 70px;
+}
+
+.head3{
+    margin-left: 142px;
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-right: 30px;
+}
+
+.homephoto-home{
+    margin-top: -3px;
+    width: 50px;
+    background-color: #f9cb46;
+    padding:7px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border-radius: 300px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.userphoto-home{
+    margin-top: 10px;
+    width: 40px;
+    background-color:rgba(255, 255, 255, 0.905);
+    padding:10px;
+    border-radius: 300px;
+    transition: 0.5s;
+}
+
+.logoutphoto-home{    
+    width: 50px;
+    background-color:rgba(255, 255, 255, 0.905);
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 14px;
+    border-radius: 300px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.userphoto-home:hover, .logoutphoto-home:hover{
+    background-color: #f9cb46;
+    transition: 0.5s;
+}
+
+.text-home{
+    font-family: 'American Typewriter';
+    font-size: 35px;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    font-weight: bold;
+    color: #393939;
+}
+
+.button-line1{
+    display: flex;
+    margin-bottom: 70px;
+    margin-left: 50px;
+    justify-content: space-between;
+    margin-right: 50px;
+    align-items: center;
+}
+
+.button-line2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+
+.E-Services{
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+.blue-button{
+    background-color: #58949c;
+    font-family: 'American Typewriter';
+    font-size: 35px;
+    padding: 35px;
+    border-radius: 15px;
+    width: 300px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    transition: 0.3s;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.blue-button:hover{
+    color: #f9cb46;
+    transition: 0.3s;
+}
+
+.blue-button:active{
+    color: white;
+}
+
+.orange-button{
+    background-color: #58949c;
+    font-family: 'American Typewriter';
+    font-size: 35px;
+    padding: 35px;
+    border-radius: 15px;
+    width: 300px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    transition: 0.3s;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.orange-button:hover{
+    color: #f9cb46;
+    transition: 0.3s;
+}
+
+.orange-button:active{
+    color: white;
+}
+
+.yellow-button{
+    background-color: #58949c;
+    font-family: 'American Typewriter';
+    font-size: 35px;
+    padding: 35px;
+    border-radius: 15px;
+    width: 300px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    transition: 0.3s;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.yellow-button:hover{
+    color: #f9cb46;
+    transition: 0.3s;
+}
+
+.yellow-button:active{
+    color: white;
+}

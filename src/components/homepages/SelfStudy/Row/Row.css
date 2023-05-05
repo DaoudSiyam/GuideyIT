@@ -1,0 +1,11 @@
+.row{
+    margin-top: 50px;
+text-align:center
+}
+.row-cards {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+

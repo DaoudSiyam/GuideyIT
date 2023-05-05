@@ -1,0 +1,17 @@
+.reg-text{
+    font-family: 'American Typewriter';
+    font-size: 35px;
+    margin-top: 30px;    
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+
+.reg-images{
+    margin-top: 40px;
+    height: 500px;
+    width: 1000px
+}
+
+.margin-main-div{
+    margin-bottom: 100px;
+}

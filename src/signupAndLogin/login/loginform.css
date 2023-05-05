@@ -1,0 +1,115 @@
+.page{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+    
+.cover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    text-align: center;
+    background: #58949c;
+    font-family: 'American Typewriter';
+    color: white;	 
+    gap: 0rem;
+    display:grid;
+    width: 27rem;
+    height: 28rem;
+    padding: 0;
+    border-radius: 40px;
+}
+    
+.cover__inner{
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.logbox{
+    background-color:#3d666c ;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    text-align: center;
+    font-family: "american typewriter";
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.text1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 10px;
+    font-size: 20px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.text-box-login{
+    margin-bottom: 20px;
+    height: 30px;
+    width: 330px;
+    padding-left: 20px;
+    border-radius: 12px;
+    border: none;
+    font-size: 15px;
+}
+
+.loginButton {
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background-color: #f9cb46;
+    padding: 15px 30px;
+    font-family: 'American Typewriter';
+    font-weight: bold;
+    font-size: 16px;
+    transition: 0.3s;
+    border: none;
+    margin-top: 12px;
+    margin-bottom:12px;
+    
+}
+
+.loginButton:hover{
+    color: white;
+    transition: 0.3s;
+}
+
+.loginButton:active{
+    color:#393939;
+}
+
+.guestButton {
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background-color: #d9dd50;
+    margin-left: 50px;
+    margin-top: -50px;
+    font-family: 'American Typewriter'; 
+    padding: 15px;
+    border: none;
+}
+
+.guestButton:hover{
+    color: white;
+    transition: 0.3s;
+}
+
+.guestButton:active{
+    color:#393939;
+}
+
+.enter{
+    direction: ltr;
+}
+
+.image{
+    width: 400px;
+    margin-right: 20px;
+}

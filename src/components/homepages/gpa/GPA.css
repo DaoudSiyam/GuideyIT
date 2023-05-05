@@ -1,0 +1,129 @@
+.yellow-circle{
+    position: absolute;
+    color: #f9cb46;
+    width: 200px;
+    border-radius: 200px;
+}
+
+.text-gpa{
+    font-weight: bold;
+    font-family: "american typewriter";
+    font-size: 35px;
+    margin-top: 30px;
+    margin-bottom: 45px;
+    
+}
+
+.gpa{
+    display: grid;
+    justify-content: center;
+    margin-bottom: 60px;
+    margin-top: 40px;
+}
+
+.gpa-head{
+    background-color:#3d666c;
+    color: white;
+    font-family: 'American Typewriter';
+    font-weight: bold;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    box-shadow: 10px 20px 20px rgba(0,0,0,0.2)
+}
+
+.calculated-gpa-div{
+    font-family: 'American Typewriter';
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.gpa-body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #58949c;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 10px 20px 20px rgba(0,0,0,0.3);
+    padding-bottom: 40px;
+}
+
+.text-box-gpa{
+    margin-top: 10px;
+    width: 300px;
+    border: none;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 17px;
+    font-family: 'american typewriter';
+}
+
+.material{
+    display: flex;
+    color: white;
+    margin-top: 10px;
+}
+
+.subject{
+    font-size: 20px;
+    margin-right: 50px;
+    font-family: 'american typewriter';
+}
+
+.grade{
+    width: 65px;
+    border: none;
+    border-radius: 5px;
+    height: 25px;
+    padding-left: 7px;
+    font-size: 17px;
+    margin-right: 25px;
+    font-family: 'american typewriter';
+}
+
+.hours{
+    width: 65px;
+    border: none;
+    border-radius: 5px;
+    width: 65px;
+    height: 25px;
+    padding-left: 7px;
+    font-size: 17px;
+    font-family: 'american typewriter';
+}
+
+.calculation-button{
+    font-family: 'American Typewriter';
+    background-color: #f9cb46;
+    border: none;
+    font-size: 30px;
+    margin-top: 20px;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 10px;
+    transition: 0.3s;
+}
+
+.calculation-button:hover{
+    color: white;
+    transition: 0.3s;
+}
+
+.calculation-button:active{
+    color: #393939;
+}

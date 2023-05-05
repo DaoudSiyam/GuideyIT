@@ -1,0 +1,28 @@
+.map{
+    width: 750px;
+    border-radius: 1%;
+    /* border: 1px solid #555; */
+    /* box-shadow: rgb(50 50 93 / 25%) 0px 50px 100px -20px, rgb(0 0 0 / 30%) 0px 30px 60px -30px, rgb(10 37 64 / 35%) 0px -2px 6px 0px inset; */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.map-container{
+    position: relative;
+    width: min-content;
+    background-color: f0eeee;   
+    margin: 0;
+    padding: 0;
+}
+.map-marker{
+    position: absolute;
+    content: "";
+    width: 30px;
+    border-radius: 50px;
+}
+
+.root-container{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 100px;
+}
