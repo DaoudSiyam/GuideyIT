@@ -15,6 +15,8 @@ of the course.
 Another challenge was the implementation of a GPA calculator in ReactJS, since there were not many resources for building a GPA calculator at the time in React, 
 we had to improvise and create our own code.
 
+But the most major challenge was designing three different study plans for three different majors in coding, I heavily relied on the usage of flex-boxes in CSS so I can achieve my designs, this process took the most focus of the project time, and we are glad that we have achieved what we had in mind despite all of the challenges.
+
 
 # Getting Started with Create React App
 
